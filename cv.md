@@ -11,3 +11,10 @@ like programming
 
 js html css python
 
+## Code Example
+
+const likeJs = () => alert("Hello world")
+
+## Work experience
+
+so many yers in freelance
